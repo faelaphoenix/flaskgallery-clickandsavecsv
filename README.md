@@ -39,7 +39,6 @@ myvenv\Scripts\activate
 deactivate
 
 ## Iniciando o servidor web local:
-make run:
 python app.py
 
 ## Para sair da aplicação:
