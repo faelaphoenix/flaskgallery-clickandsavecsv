@@ -1,0 +1,65 @@
+
+https://www.tensorflow.org/tutorials/images/image_recognition
+https://realpython.com/face-recognition-with-python/
+
+OpenCV Reconhecimento de Imagem Parte 1 - http://guilhermemauro.com/blog/2016/06/30/introducao-ao-reconhecimento-de-imagem-com-opencv-e-python-parte-1/
+OpenCV Reconhecimento de Imagem Parte 2 - http://guilhermemauro.com/blog/2016/07/07/introducao-ao-reconhecimento-de-imagem-com-opencv-e-python-parte-2/
+
+Carregando, Exibindo e Salvando Imagens - Python e OpenCV 02 => https://www.youtube.com/watch?v=TTI42Slt6gY
+Tirando e armazenando uma foto => https://cadernodelaboratorio.com.br/2017/03/12/python-e-opencv-tirando-e-armazenando-uma-foto/
+
+Desenhar Formas Geométricas => http://www.galirows.com.br/meublog/opencv-python/opencv2-python27/capitulo1-basico/desenhar-formas-geometricas/
+Reconhecer formas geométricas OpenCV => http://guilhermemauro.com/blog/2017/05/03/formas-geometricas/
+
+Capturando partes da imagem com clique do mouse em OpenCV e Python => https://www.pyimagesearch.com/2015/03/09/capturing-mouse-click-events-with-python-and-opencv/
+Python 2.7 and OpenCV 2.4.X.
+
+Measure Distance OpenCV=> https://www.pyimagesearch.com/2016/04/04/measuring-distance-between-objects-in-an-image-with-opencv/
+Mensurar dimensões com OpenCV=> http://guilhermemauro.com/blog/2016/08/25/mensurar-dimensoes-com-o-opencv/
+
+
+Flask => http://pythonclub.com.br/what-the-flask-pt-1-introducao-ao-desenvolvimento-web-com-python.html
+Gravando em CSV no servidor => http://guilhermemauro.com/blog/2016/06/23/python-ler-e-gravar-dados-em-arquivo-formato-csv/
+
+PyContours => https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_contours_begin/py_contours_begin.html#additional-resources
+PyImageDisplay =>https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_image_display/py_image_display.html#py-display-image
+PyBasicOps => https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_core/py_basic_ops/py_basic_ops.html
+
+Coordinates X e Y in OpenCV => https://stackoverflow.com/questions/44068654/finding-all-the-x-and-y-coordinates-of-an-image-in-python-opencv
+
+Image Gallery and Pillow in Flask =>https://auth0.com/blog/image-processing-in-python-with-pillow/
+
+Image Gallery in Django =>
+https://github.com/aaugustin/myks-gallery
+https://github.com/VelinGeorgiev/django-photo-gallery
+https://djangopackages.org/grids/g/gallery/
+
+https://cadernodelaboratorio.com.br/2017/03/12/python-e-opencv-tirando-e-armazenando-uma-foto/
+http://www.galirows.com.br/meublog/opencv-python/opencv2-python27/capitulo2-deteccao/deteccao-movimento/
+https://imasters.com.br/back-end/primeiros-passos-com-pil-a-biblioteca-de-imagens-do-python
+http://www.pythonware.com/products/pil/
+https://rohansinsights.wordpress.com/2016/10/29/parking-lot-image-classification-through-opencv-and-a-flask-app/
+=================================================
+numpy => https://github.com/numpy/numpy/issues/5861
+Flask, Numpy and OpenCV => https://gist.github.com/kylehounslow/767fb72fde2ebdd010a0bf4242371594
+opencv-examples => https://github.com/jhoonb/opencv-examples
+
+
+=================================================
+
+Assíncrona 
+=> https://fernandofreitasalves.com/tarefas-assincronas-com-django-e-celery/
+=> https://br-linux.org/2016/01/executar-tarefas-assincronas-em-linux-com-o-python-3-flask-e-celery.html
+
+=> https://medium.com/@pgjones/building-quart-from-flask-and-asyncio-60a833a87e6b
+
+=================================================
+Docker
+https://imasters.com.br/devsecops/portando-aplicacao-para-docker
+http://containertutorials.com/docker-compose/flask-simple-app.html
+https://medium.com/@mtngt/docker-flask-a-simple-tutorial-bbcb2f4110b5
+https://medium.com/grupy-rn/conteinerizando-suas-aplica%C3%A7%C3%B5es-django-com-docker-e-docker-compose-3e86a8df6984
+=================================================
+Fatiar uma imagem
+http://www.galirows.com.br/meublog/blog/basico-opencv-python-mostrar-imagem/
+Web Scraping => https://automatetheboringstuff.com/chapter11/

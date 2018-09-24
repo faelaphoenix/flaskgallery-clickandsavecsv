@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        <h1>Olá, tudo bem?</h1>
+        <h2>Seja Bem-Vindo(a) a Galeria de Imagens</h2>
+        <p>Faça <a href="{{ url_for('upload') }}">upload</a> de imagens ou </p>
+        <p>verifique as que estão na nossa <a href="{{ url_for('gallery') }}">galeria</a></p>
+    </div>
+</div>
+{% endblock %}
