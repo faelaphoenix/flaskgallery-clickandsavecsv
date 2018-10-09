@@ -1,9 +1,6 @@
 
-# Flask Gallery - Click and Save
-
-Galeria de imagens disponibilizada numa aplicação Flask e arquivo .py (click_and_save.py)contendo estudos para inserção do OpenCV na página. Objetivo era obter informações de imagens upadas e exibidas da galeria para salvar num arquivo CSV.
-
-\* Obs.: Não foi feita a integração do arquivo click_and_save.py com a página web Flask.
+# Flask Gallery
+Galeria de imagens disponibilizada numa aplicação Flask 
 
 ## Ferramentas utilizadas:
 
